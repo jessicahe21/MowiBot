@@ -1,5 +1,5 @@
 # Mowi Bot 
-Hello! This is Mowi Bot, a Discord bot coded with the [JDA (Java Discord API)](https://github.com/DV8FromTheWorld/JDA)! Currently I only have a few ~~meme~~ fun commands, but I am working towards becoming more useful.
+Hello! This is Mowi Bot, a Discord bot coded with the [JDA (Java Discord API)](https://github.com/DV8FromTheWorld/JDA)! Currently I only have a few ~~meme~~ fun commands for my friends, but I am working towards becoming more useful.
 
 [![Discord Invite](https://cdn.discordapp.com/attachments/462444808221491210/463630243643523082/fruitcake.png)](https://discordapp.com/oauth2/authorize?client_id=462441653420949519&scope=bot&permissions=2146958591)
 
