@@ -1,5 +1,7 @@
-# Mowi Bot
-A Discord bot coded with the [JDA (Java Discord API)](https://github.com/DV8FromTheWorld/JDA)!
+# Mowi Bot 
+Hello! This is Mowi Bot, a Discord bot coded with the [JDA (Java Discord API)](https://github.com/DV8FromTheWorld/JDA)! Currently I only have a few ~~meme~~ fun commands, but I am working towards becoming more useful.
+
+[![Discord Invite](https://cdn.discordapp.com/attachments/462444808221491210/463630243643523082/fruitcake.png)](https://discordapp.com/oauth2/authorize?client_id=462441653420949519&scope=bot&permissions=2146958591)
 
 ## Documentation
 * `&help` - displays available commands, GitHub link, and invite link
@@ -16,6 +18,7 @@ Fun commands:
   * Music bot functions ([LavaPlayer](https://github.com/sedmelluq/LavaPlayer))
 * Rich presence (e.g. "say &help")
 * Deletes response if user deletes command (e.g. a deleted &say command)
+* 'Pats', 'Hugs', 'Slaps' upon mentioning a user
 
 ## About
 I am a beginner in Java programming, currently learning the syntax and trying to interpret classes, objects, etc. My programming background only includes introductory C programming. Thus, any advice or constructive criticism is very much appreciated!
