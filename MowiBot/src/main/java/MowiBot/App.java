@@ -38,12 +38,16 @@ public class App extends ListenerAdapter{
             builder.setDescription("This is Mowi Bot :3\n\n\n");
 
             builder.addField("Commands (prefix: &)",
+                    "Utilities:\n" +
+                    "`&avatar` - display your own avatar (`&avatar @user` for another user's avatar)\n" +
+                    "`&<BnS Emote Name>` - displays emote (e.g. shy, tears, giggle, grrr)\n\n" +
+
+                    "Fun:\n" +
                     "`&ping` - returns pong\n" +
                     "`&translate` - alters a phrase's 'r' and 'l' to 'w'\n" +
                     "`&say` - repeats after you!\n" +
-                    "`&MOWI` - sends a :HYPERS:\n" +
-                    "`&avatar` - display your own avatar (`&avatar @user` for another user's avatar)\n" +
-                    "`&<BnS Emote Name>` - displays emote (e.g. shy, tears, giggle, grrr)\n\n" +
+                    "`&MOWI` - sends a :HYPERS:\n\n" +
+
                     "> [GitHub Repository](https://github.com/jessicahe21/MowiBot) (pls help me improve)\n" +
                     "> [Invite Link!](https://discordapp.com/oauth2/authorize?client_id=462441653420949519&scope=bot&permissions=2146958591)",
                     false);
