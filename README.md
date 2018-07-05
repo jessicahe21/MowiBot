@@ -5,14 +5,14 @@ Hello! This is Mowi Bot, a Discord bot coded with the [JDA (Java Discord API)](h
 
 ## Documentation
 * `&help` - displays available commands, GitHub link, and invite link
-
+Utilities:
+* `&avatar` - displays your own avatar (`&avatar @user` for another user's avatar)
+* `&<BnS Emote Name>` - displays emote (e.g. shy, tears, giggle, grrr)
 Fun commands:
 * `&ping` - returns "pong"
 * `&translate` - alters a phrase's 'r' and 'l' to 'w'
 * `&say` - repeats after you!
 * `&MOWI` - sends a :HYPERS:
-* `&avatar` - displays your own avatar (`&avatar @user` for another user's avatar)
-* `&<BnS Emote Name>` - displays emote (e.g. shy, tears, giggle, grrr)
 
 ## Goals/To-Do's
 * PRIORITY: Join voice channels
